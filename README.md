@@ -14,7 +14,7 @@ In this book, with step-by-step instructions, you will learn to navigate the com
 
 This edition not only updates you on the latest features but also prepares you for future innovations with a preview of upcoming AI enhancements in Power BI. Whether you're refining your skills or aspiring to become an expert, this book is an invaluable resource for leveraging Power BI to its fullest potential.
 
-## What you will learn
+## What You Will Learn
 - Analyze and integrate business data using Microsoft Data Fabric  
 - Create impactful visualizations and manage Hybrid tables  
 - Develop shared cloud connections and advanced scorecards  
