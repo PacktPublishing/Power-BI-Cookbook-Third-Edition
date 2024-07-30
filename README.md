@@ -1,4 +1,4 @@
-# Power BI Cookbook Third Edition
+# Microsoft Power BI Cookbook, Third Edition
 <img src="PowerBICookbook3rdEditionCover.jpg" />
 A practical, recipe-based approach provides solutions to real-world data challenges, enhancing your analytical skills and understanding of Power BI
 
